@@ -6,10 +6,8 @@ This repository contains code for a YouTube website clone created using HTML and
 
 ## Website Preview
 ### Desktop Preview
-![Screenshot 2023-11-03 231103](https://github.com/ManikMaity/YouTube-Clone/assets/110734724/93f26351-3482-4da8-bc7e-8cb389be780b)
-### Mobile Preview
-![Screenshot 2023-11-03 231348](https://github.com/ManikMaity/YouTube-Clone/assets/110734724/6257f78e-1e45-42db-812d-f5b27e6ca764)
-
+![Screenshot 2023-11-03 231103](![Uploading Screenshot 2024-01-04 215810.png…]()
+)
 
 ## Features
 
@@ -23,4 +21,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: This project is for educational and demonstration purposes. All assets used in the project are belongs to its respective owner, I used it for educational purpose. It is not affiliated with or endorsed by YouTube.
