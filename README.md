@@ -6,8 +6,7 @@ This repository contains code for a YouTube website clone created using HTML and
 
 ## Website Preview
 ### Desktop Preview
-![Screenshot 2023-11-03 231103](Screenshot.png)
-)
+![Screenshot]
 
 ## Features
 
