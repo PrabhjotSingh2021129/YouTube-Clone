@@ -6,7 +6,10 @@ This repository contains code for a YouTube website clone created using HTML and
 
 ## Website Preview
 ### Desktop Preview
-![Screenshot of page](./Screenshot.png)
+![Screenshot of webView](./Screenshot.png)
+
+### Mobile Preview
+![Screenshot of mobileView](./ytscreen.jpg)
 
 
 ## Features
