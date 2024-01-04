@@ -2,7 +2,7 @@
 
 This repository contains code for a YouTube website clone created using HTML and Tailwind CSS. The clone is designed to be fully responsive, offering a seamless experience across different screen sizes.
 
-### [Live Website here](https://manikmaity.github.io/YouTube-Clone/)
+### [Live Website here](https://yt-clone-by-prabhjot.vercel.app/)
 
 ## Website Preview
 ### Desktop Preview
